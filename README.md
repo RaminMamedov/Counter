@@ -1,1 +1,1 @@
-This tutorial project was created with React, Redux, and using Redux Persist.
+This tutorial project was created with React, Redux, TypeScript, and using Redux Persist.
